@@ -1,0 +1,13 @@
+# Python cache e file temporanei
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Ambienti virtuali
+venv/
+.venv/
+env/
+
+# Configura VS Code
+.vscode/
+.DS_Store
